@@ -1,11 +1,11 @@
-# AGMonotone
+# DigitalAtom
 
 <div align="center">
-<img width=300 src="https://raw.githubusercontent.com/BlackFlora/AGMonotone/master/IMG/0.png">
+<img width=300 src="https://raw.githubusercontent.com/MatthiasSchoenaerts/DigitalAtom/master/IMG/logo.png">
 
 <br> <br>
 
-<h1> AGMonotone </h1>
+<h1> DigitalAtom </h1>
 <h3> </h3></div>
 
 <br>
@@ -15,9 +15,10 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/BlackFlora/AGMonotone/master/IMG/0001.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/BlackFlora/AGMonotone/master/IMG/0002.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/BlackFlora/AGMonotone/master/IMG/0003.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/MatthiasSchoenaerts/DigitalAtom/master/IMG/1.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/MatthiasSchoenaerts/DigitalAtom/master/IMG/2.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/MatthiasSchoenaerts/DigitalAtom/master/IMG/3.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/MatthiasSchoenaerts/DigitalAtom/master/IMG/4.JPG"> </td>
 </tr>
 
 <tr>
@@ -29,27 +30,30 @@
 
 ## Description
 <br>
-A simple but powerful ribbon synthesizer consisting of a single oscillator, a frequency modulating LFO, cutoff, and a sweet delay with time and feedback settings.
+This is an entertainment application to relax your life.
 <br>
-Music can be so wonderful, beautiful melody, beautiful voice, simply can not stop.
+There are two kinds of atom energy in the vast universe: positive atom energy and negative atom energy.
 <br>
-Please touch your finger and listen to the surrounding world.
+You need to use positive atom energy to defeat negative atom energy, and then get more positive atom energy.
 <br>
-Audiobus support!
+- Choose from multiple modes
 <br>
-Enjoy yourself!
+- Speed and passion, the more you knock back, the higher the score
+<br>
+- Swipe up to launch positive atomic energy, slide down to pause the game, click the "#" button below to launch "#atomic energy"
+<br>
 <br>
 
 
 ### User Information
-pzuijs@163.com
+v7r37p@126.com
 <br>
-tell: +60133698698
+tell: +60133699606
 
 
 
 ## Author
 
-[@BlackFlora]
+[@Matthias Schoenaerts]
 
 
